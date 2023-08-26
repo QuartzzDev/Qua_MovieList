@@ -1,3 +1,5 @@
+# QuartzzDev <3
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QPushButton, QListWidget, QMessageBox, QDialog, QRadioButton, QButtonGroup, QDialogButtonBox
 from movie_manager import MovieManager
